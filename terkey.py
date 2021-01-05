@@ -15,7 +15,7 @@ class Terkey:
   def banner(self):
       os.system('clear')
       print(f'{c}Terkey {a}[{c}Termux Key{a}]'.center(68))
-      print(f'{a}Karjok Pangesty'.center(53))
+      print(f'{a} FERDIZ-AFK'.center(53))
       print("".join([i for i in "\n"*3]))
       
   # Loading animation   
